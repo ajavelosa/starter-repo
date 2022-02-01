@@ -1,2 +1,2 @@
-# starter-repo
-Dummy repository for learning github and git commands
+# Starter Repository
+This is a dummy repository for learning github and git commands.
